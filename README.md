@@ -8,7 +8,7 @@ Chess engine entry for the make.fun tiny-chess-01 bounty.
 4. Evaluation: material values with a small positional term.
 
 ## Run
-echo "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1" | python3 main.py
+> echo "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1" | python3 main.py
 
 ## License
 MIT, see LICENSE.
